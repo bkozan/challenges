@@ -11,3 +11,6 @@ Step function runs a Choice State, depending on the relevant information, it tak
 +Run SNS Topic if particular user deletes a file  
 +Modify file properties  
 +Move or Copy file to different bucket  
+
+##PUT and Encrypt with KMS
+Via CLI or AWS-Shell, PUT items into a bucket, and encrypt them using KMS  
