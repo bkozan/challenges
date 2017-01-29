@@ -11,6 +11,3 @@ Step function runs a Choice State, depending on the relevant information, it tak
 +Run SNS Topic if particular user deletes a file  
 +Modify file properties  
 +Move or Copy file to different bucket  
--Lets see what happens without two spaces
-*The above line has a minus, and this line has a star  
-The above line received dual spaces
