@@ -16,6 +16,7 @@ Step function runs a Choice State, depending on the relevant information, it tak
 Via CLI or AWS-Shell, PUT items into a bucket, and encrypt them using KMS  
 --I was successful in this, however, I then removed my CLI user from the Key Users group, and the operation still succeeded.... Needs furhter investigation.  
 
+##Other
 Find a way for Git updates to update my Lambda functions without Console interaction. (Code Pipeline?)  
 
 Query my CloudTrail or S3 logs with Athena.  
