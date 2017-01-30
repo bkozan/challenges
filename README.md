@@ -15,3 +15,13 @@ Step function runs a Choice State, depending on the relevant information, it tak
 ##PUT and Encrypt with KMS
 Via CLI or AWS-Shell, PUT items into a bucket, and encrypt them using KMS  
 --I was successful in this, however, I then removed my CLI user from the Key Users group, and the operation still succeeded.... Needs furhter investigation.  
+
+Find a way for Git updates to update my Lambda functions without Console interaction. (Code Pipeline?)  
+
+Query my CloudTrail or S3 logs with Athena.  
++What to do with the results?  
+
+Find a way for all S3 Buckets to enforce mandatory logging to specific folder "/logs/".  
+
+##Super Advanced
+Convert some logs into Parque with Snappy? 
